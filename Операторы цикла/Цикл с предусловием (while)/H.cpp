@@ -1,3 +1,4 @@
+//я решал эту задачу больше часа из-за особенности float'a :D
 #include <bits/stdc++.h>
 using namespace std;
 
